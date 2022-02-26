@@ -1,0 +1,30 @@
+*{
+	background-color: silver;
+}
+h3{
+	color: blue;
+}
+#abouth{
+	font-family: sans-serif;
+	color: #14A733;
+}
+.manyh{
+	color: purple;
+}
+.change{
+	font-weight: bold;
+	font-family: sans-serif;
+	color: green;
+}
+p.change{
+	font-weight: normal;
+	color: red;
+}
+h1 i{
+	color: #F18114;
+}
+p.group, b{
+	font-size: 30px;
+}
+
+
